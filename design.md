@@ -8,13 +8,13 @@
 # 1. CMU Game Selection
 
 ## Game Title
-My game is called **Space Dodger**.
+My game is called **The High-five**.
 
 ## Link to the Game
-[Play My Game Here](https://academy.cs.cmu.edu/sharing/example-link)
+[Play My Game Here](https://academy.cs.cmu.edu/sharing/blueFrog493066)
 
 ## Short Description
-This is a fast-paced arcade game where the player controls a spaceship and avoids incoming asteroids while collecting power-ups.
+This is a high-five game where the player progressively makes the stick to the right, more upset.
 
 ---
 
@@ -28,13 +28,13 @@ My website will include:
 - Screenshots from gameplay
 - A playable embedded version of the game
 - Instructions for controls
-- A high-score or challenge section
+- A high-score section
 - A short “About the Developer” section
 - A contact or feedback section
 
 ## Additional Features I Might Add
-- Animated buttons
-- Hover effects
+- Different outcomes such as one the stick figures leaving 
+- Background changes
 - Background music
 ---
 
@@ -74,13 +74,12 @@ FOOTER
 
 | Purpose | Color | Hex Code |
 |---|---|---|
-| Background | Dark Blue | `#0B1E3D` |
-| Main Accent | Neon Green | `#39FF14` |
-| Secondary Accent | Light Gray | `#D9D9D9` |
-| Text Color | White | `#FFFFFF` |
+| Background | White | `##FFFFFF` |
+| Main Accent | Light Gray | `#D9D9D9` |
+| Text Color | Black | `#000000` |
 
 ## Why I Chose These Colors
-I chose these colors because they match the futuristic space theme of my game and make the website feel energetic and modern.
+I chose these colors because they match the simplicity of my game and make the website feel calm and modern.
 
 ---
 
@@ -90,9 +89,8 @@ I chose these colors because they match the futuristic space theme of my game an
 The tone of my website will be:
 
 - Fun
-- Energetic
-- Competitive
-- Retro arcade-inspired
+- Simple
+- Organized
 
 ## Writing Style
 The writing on the page will:
@@ -107,12 +105,10 @@ The writing on the page will:
 
 ## Websites I Like
 - https://www.minecraft.net
-- https://undertale.com
-- https://www.nintendo.com
 
 ## Features I Like From These Sites
 - Large hero images
-- Bright colors
+- Simple colors
 - Simple navigation
 - Interactive buttons
 - Clean layouts
