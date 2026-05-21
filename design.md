@@ -14,7 +14,7 @@ My game is called **The High-five**.
 [Play My Game Here](https://academy.cs.cmu.edu/sharing/blueFrog493066)
 
 ## Short Description
-This is a high-five game where the player progressively makes the stick to the right, more upset.
+This is a high-five game where the player progressively makes the stick figure to the right, more upset.
 
 ---
 
