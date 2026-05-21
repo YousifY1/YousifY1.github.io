@@ -33,7 +33,7 @@ My website will include:
 - A contact or feedback section
 
 ## Additional Features I Might Add
-- Different outcomes such as one the stick figures leaving 
+- Different outcomes such as the upset stick figure leaving 
 - Background changes
 - Background music
 ---
